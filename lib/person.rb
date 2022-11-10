@@ -1,6 +1,4 @@
 # your code goes here
-require 'pry'
-
 class Person
 
   attr_reader :bank_account, :happiness, :hygiene, :name
@@ -69,4 +67,3 @@ class Person
   end
 
 end
-binding.pry
